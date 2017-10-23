@@ -1,4 +1,8 @@
 Hello world!
 你好,git,学习使我快乐.
 遇见一个人,叫Tomcat.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick and simple
+>>>>>>> dev
